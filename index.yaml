@@ -2,8 +2,22 @@ apiVersion: v1
 entries:
   openftth:
   - apiVersion: v2
+    appVersion: 0.1.16
+    created: "2020-08-29T20:23:42.77269321Z"
+    dependencies:
+    - name: cassandra
+      repository: https://charts.bitnami.com/bitnami
+      version: 5.6.1
+    description: A Helm chart for openftth 0.1.16
+    digest: 86ac844aa54ed1c1c2a975b95014588b3432c59d502fd2b90dd22fd68f5fea0c
+    name: openftth
+    type: application
+    urls:
+    - https://daxgrid.github.io/charts/openftth-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
     appVersion: 0.1.2
-    created: "2020-08-09T20:17:59.493362287+02:00"
+    created: "2020-08-29T20:23:42.770154824Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -15,4 +29,4 @@ entries:
     urls:
     - https://daxgrid.github.io/charts/openftth-0.1.2.tgz
     version: 0.1.2
-generated: "2020-08-09T20:17:59.491807951+02:00"
+generated: "2020-08-29T20:23:42.767233673Z"
