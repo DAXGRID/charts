@@ -2,8 +2,8 @@ apiVersion: v1
 entries:
   openftth:
   - apiVersion: v2
-    appVersion: 0.2.9
-    created: "2020-09-08T19:51:52.373882217Z"
+    appVersion: 0.2.10
+    created: "2020-09-09T07:30:23.869368738Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -15,7 +15,7 @@ entries:
       repository: https://kiwigrid.github.io
       version: 9.6.0
     description: A Helm chart for openftth
-    digest: e641e0f820a0612fbf0643b600f1dd6296f4be71e3ab6223c33a0251e49f9ad7
+    digest: 07ad5810ad9b5774fea7533cec16b0e1a4892fc7b94b2568d987b457c40c7f9b
     name: openftth
     type: application
     urls:
@@ -23,7 +23,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.9
-    created: "2020-09-08T19:51:52.344969815Z"
+    created: "2020-09-09T07:30:23.825981909Z"
     description: A Helm chart for openftth
     digest: 3ba413b2929c1e03fec9b760cabb7ce568a666b7d507448f1731bca645787eea
     name: openftth
@@ -33,7 +33,7 @@ entries:
     version: 0.2.19
   - apiVersion: v2
     appVersion: 0.2.9
-    created: "2020-09-08T19:51:52.343569936Z"
+    created: "2020-09-09T07:30:23.823623036Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -47,7 +47,7 @@ entries:
     version: 0.2.18
   - apiVersion: v2
     appVersion: 0.2.7
-    created: "2020-09-08T19:51:52.340245653Z"
+    created: "2020-09-09T07:30:23.820868468Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -61,7 +61,7 @@ entries:
     version: 0.2.17
   - apiVersion: v2
     appVersion: 0.2.6
-    created: "2020-09-08T19:51:52.33758509Z"
+    created: "2020-09-09T07:30:23.818002867Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -75,7 +75,7 @@ entries:
     version: 0.2.16
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2020-09-08T19:51:52.334923945Z"
+    created: "2020-09-09T07:30:23.81512728Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -89,7 +89,7 @@ entries:
     version: 0.2.15
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2020-09-08T19:51:52.331445158Z"
+    created: "2020-09-09T07:30:23.811622509Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -103,7 +103,7 @@ entries:
     version: 0.2.14
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2020-09-08T19:51:52.328713026Z"
+    created: "2020-09-09T07:30:23.807645415Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -117,7 +117,7 @@ entries:
     version: 0.2.13
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2020-09-08T19:51:52.325986468Z"
+    created: "2020-09-09T07:30:23.804704985Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -131,7 +131,7 @@ entries:
     version: 0.2.12
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2020-09-08T19:51:52.323297481Z"
+    created: "2020-09-09T07:30:23.800819383Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -145,7 +145,7 @@ entries:
     version: 0.2.11
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2020-09-08T19:51:52.31985166Z"
+    created: "2020-09-09T07:30:23.796403841Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -159,7 +159,7 @@ entries:
     version: 0.2.10
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2020-09-08T19:51:52.367817126Z"
+    created: "2020-09-09T07:30:23.85945545Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -173,7 +173,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2020-09-08T19:51:52.365134401Z"
+    created: "2020-09-09T07:30:23.854718853Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -187,7 +187,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2020-09-08T19:51:52.362135485Z"
+    created: "2020-09-09T07:30:23.848887002Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -201,7 +201,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2020-09-08T19:51:52.359066301Z"
+    created: "2020-09-09T07:30:23.844823698Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -215,7 +215,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2020-09-08T19:51:52.356335697Z"
+    created: "2020-09-09T07:30:23.840798719Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -229,7 +229,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2020-09-08T19:51:52.353652623Z"
+    created: "2020-09-09T07:30:23.836210088Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -243,7 +243,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2020-09-08T19:51:52.350315363Z"
+    created: "2020-09-09T07:30:23.832263435Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -257,7 +257,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2020-09-08T19:51:52.347658162Z"
+    created: "2020-09-09T07:30:23.829157996Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -271,7 +271,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2020-09-08T19:51:52.317198685Z"
+    created: "2020-09-09T07:30:23.791875901Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -285,7 +285,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2020-09-08T19:51:52.314374274Z"
+    created: "2020-09-09T07:30:23.786610519Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -299,7 +299,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2020-09-08T19:51:52.310738232Z"
+    created: "2020-09-09T07:30:23.783220538Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -313,7 +313,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2020-09-08T19:51:52.307897894Z"
+    created: "2020-09-09T07:30:23.779776381Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -327,7 +327,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2020-09-08T19:51:52.305130011Z"
+    created: "2020-09-09T07:30:23.776761815Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -341,7 +341,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2020-09-08T19:51:52.302464642Z"
+    created: "2020-09-09T07:30:23.772653068Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -353,4 +353,4 @@ entries:
     urls:
     - https://daxgrid.github.io/charts/openftth-0.1.2.tgz
     version: 0.1.2
-generated: "2020-09-08T19:51:52.299464724Z"
+generated: "2020-09-09T07:30:23.770107284Z"
