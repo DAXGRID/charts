@@ -3,7 +3,17 @@ entries:
   openftth:
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.490531197Z"
+    created: "2021-03-14T14:10:32.261934886Z"
+    description: A Helm chart for openftth
+    digest: 2e9bd39b534f9b4f9e7a174decf44a1ad830d16dc3c9da8409461138fbf1631d
+    name: openftth
+    type: application
+    urls:
+    - https://daxgrid.github.io/charts/openftth-0.7.24.tgz
+    version: 0.7.24
+  - apiVersion: v2
+    appVersion: 0.4.0
+    created: "2021-03-14T14:10:32.258320536Z"
     description: A Helm chart for openftth
     digest: c5fc1050521f0f37bb554a2535d1b80beec72c78149d15c649abb8db4668e907
     name: openftth
@@ -13,7 +23,7 @@ entries:
     version: 0.7.23
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.486428777Z"
+    created: "2021-03-14T14:10:32.254565079Z"
     description: A Helm chart for openftth
     digest: aa5106267c355daa4dfdd0da634024eb0770e48e3d61417f853b838983f493f4
     name: openftth
@@ -23,7 +33,7 @@ entries:
     version: 0.7.22
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.48234207Z"
+    created: "2021-03-14T14:10:32.250977028Z"
     description: A Helm chart for openftth
     digest: 74a84938ef683058d8c5e4474d0ca5940a284f05f9dc035c7b5c33f7249823e8
     name: openftth
@@ -33,7 +43,7 @@ entries:
     version: 0.7.21
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.478161093Z"
+    created: "2021-03-14T14:10:32.249013229Z"
     description: A Helm chart for openftth
     digest: 1317c96b53e6485f7aa02933fe10d5292910ea8e045bff0bd3fb235eba11ce6c
     name: openftth
@@ -43,7 +53,7 @@ entries:
     version: 0.7.20
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.469106942Z"
+    created: "2021-03-14T14:10:32.245111183Z"
     description: A Helm chart for openftth
     digest: bdedf44e0b3e0a531a817d1a8f2afca080a5d8214c1663f6d98a6439e4f19fdc
     name: openftth
@@ -53,7 +63,7 @@ entries:
     version: 0.7.19
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.465622386Z"
+    created: "2021-03-14T14:10:32.243054068Z"
     description: A Helm chart for openftth
     digest: b0899ed66776bf7863234461f6bb5a0dba6a861241d69aead4d9b6cc4c2d07a6
     name: openftth
@@ -63,7 +73,7 @@ entries:
     version: 0.7.18
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.461959796Z"
+    created: "2021-03-14T14:10:32.240933786Z"
     description: A Helm chart for openftth
     digest: 4c224aad973be472efe46fb00f1eb29aa632ede0e1bb3b42a9d90818a585e1e7
     name: openftth
@@ -73,7 +83,7 @@ entries:
     version: 0.7.17
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.457981718Z"
+    created: "2021-03-14T14:10:32.236516285Z"
     description: A Helm chart for openftth
     digest: 437f792387c7e12b83863bca871ae38570b38242c3b0e5c0edc2bed1413c4480
     name: openftth
@@ -83,7 +93,7 @@ entries:
     version: 0.7.16
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.453995565Z"
+    created: "2021-03-14T14:10:32.233000525Z"
     description: A Helm chart for openftth
     digest: 299ae4b73e5d768d561a46caecd123351c9a31cd9342d15ea871067155798e06
     name: openftth
@@ -93,7 +103,7 @@ entries:
     version: 0.7.15
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.4483028Z"
+    created: "2021-03-14T14:10:32.2287055Z"
     description: A Helm chart for openftth
     digest: d701a3de95efbef296409ae6442cfabd28be784430ecc9cf93452b92d760499d
     name: openftth
@@ -103,7 +113,7 @@ entries:
     version: 0.7.14
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.44431459Z"
+    created: "2021-03-14T14:10:32.224629375Z"
     description: A Helm chart for openftth
     digest: 96116e2028412dcb06b48525fe2363153558d9b48bd4e07e5009cd3e0dae849b
     name: openftth
@@ -113,7 +123,7 @@ entries:
     version: 0.7.13
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.440141284Z"
+    created: "2021-03-14T14:10:32.220305819Z"
     description: A Helm chart for openftth
     digest: dde4971ed822bd138421a4a26a2b257804d5d3949f814c203844210bc99a7d1e
     name: openftth
@@ -123,7 +133,7 @@ entries:
     version: 0.7.12
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.435879626Z"
+    created: "2021-03-14T14:10:32.216104676Z"
     description: A Helm chart for openftth
     digest: 9597c7e593b73ca5fd187737bec18387ab1975fc663d96d434792a2d752f7e93
     name: openftth
@@ -133,7 +143,7 @@ entries:
     version: 0.7.11
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.431236426Z"
+    created: "2021-03-14T14:10:32.21181968Z"
     description: A Helm chart for openftth
     digest: 675c02c2a9c30df353c9acb63b31817a65644cd9857eee8a1fd113d64deb2e7f
     name: openftth
@@ -143,7 +153,7 @@ entries:
     version: 0.7.10
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.521497671Z"
+    created: "2021-03-14T14:10:32.282765575Z"
     description: A Helm chart for openftth
     digest: bed7e76eb38a1ceda4904c9d226b13694b7511a3177e38bd50ece235a8cbc719
     name: openftth
@@ -153,7 +163,7 @@ entries:
     version: 0.7.9
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.517446493Z"
+    created: "2021-03-14T14:10:32.280776175Z"
     description: A Helm chart for openftth
     digest: 8858eb92476bee24b64a42c82be4ae180761803b292adc77ca326ff6e811c51e
     name: openftth
@@ -163,7 +173,7 @@ entries:
     version: 0.7.8
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.513502196Z"
+    created: "2021-03-14T14:10:32.278755352Z"
     description: A Helm chart for openftth
     digest: 3d01e081a3751d1e1b7f165a02a21ce3f380629e218355f6536f0626854a25ed
     name: openftth
@@ -173,7 +183,7 @@ entries:
     version: 0.7.7
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.509353067Z"
+    created: "2021-03-14T14:10:32.276633364Z"
     description: A Helm chart for openftth
     digest: 17eb9b58886d0f0c9320eb86f19062df06fbe0a19631a1518cee39cb78cd3718
     name: openftth
@@ -183,7 +193,7 @@ entries:
     version: 0.7.6
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.504914844Z"
+    created: "2021-03-14T14:10:32.273065512Z"
     description: A Helm chart for openftth
     digest: 55953f78ebbb002496c1d619fb78c3e0cb373692c9d9d8c4bb80c957f1961204
     name: openftth
@@ -193,7 +203,7 @@ entries:
     version: 0.7.5
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.499071842Z"
+    created: "2021-03-14T14:10:32.269365715Z"
     description: A Helm chart for openftth
     digest: 268fdf559d27935885667fb901294c6653c67d1fb405ebd3b57ae21538daf03a
     name: openftth
@@ -203,7 +213,7 @@ entries:
     version: 0.7.4
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.494964952Z"
+    created: "2021-03-14T14:10:32.265645539Z"
     description: A Helm chart for openftth
     digest: 0f9cc14b4290b611867be6d1d96e9a0c6393ca4a5da29a2fe9b4784100759521
     name: openftth
@@ -213,7 +223,7 @@ entries:
     version: 0.7.3
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.472585067Z"
+    created: "2021-03-14T14:10:32.247030092Z"
     description: A Helm chart for openftth
     digest: 132d95462a50f78a67b18dac47854a051821a812a6059dd782d1536a979535b2
     name: openftth
@@ -223,7 +233,7 @@ entries:
     version: 0.7.2
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.426732114Z"
+    created: "2021-03-14T14:10:32.204988469Z"
     description: A Helm chart for openftth
     digest: b6c72ad165aab956479ff4d07c2718060f0765727cbaac532633d50f11924b14
     name: openftth
@@ -233,7 +243,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.420595353Z"
+    created: "2021-03-14T14:10:32.197433761Z"
     description: A Helm chart for openftth
     digest: cf2169d62885f7f73d643a7c94d1f6c11af56dcd36a53bee0d3c34ec01ea353e
     name: openftth
@@ -243,7 +253,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.382457709Z"
+    created: "2021-03-14T14:10:32.168040109Z"
     description: A Helm chart for openftth
     digest: 9487f1c3c83d1bff1730bd019636e45a18588781984be758adde28c97d85ee23
     name: openftth
@@ -253,7 +263,7 @@ entries:
     version: 0.6.12
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.37845388Z"
+    created: "2021-03-14T14:10:32.166044908Z"
     description: A Helm chart for openftth
     digest: ada49caa7a3df0dc9dc8a20ae0cebcbdb7bc25f3db7bd771a6da52c9ede1be48
     name: openftth
@@ -263,7 +273,7 @@ entries:
     version: 0.6.11
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.372640325Z"
+    created: "2021-03-14T14:10:32.163934458Z"
     description: A Helm chart for openftth
     digest: 3cb2d2d73b9f8690333f2491bc32bc122d10265e18bca88c0f977ba1fc77b01e
     name: openftth
@@ -273,7 +283,7 @@ entries:
     version: 0.6.10
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.416157838Z"
+    created: "2021-03-14T14:10:32.193123878Z"
     description: A Helm chart for openftth
     digest: ebb5057465a2a39f6e413dc1fd6e29599f18dc314bc5585c251ec4256212ced5
     name: openftth
@@ -283,7 +293,7 @@ entries:
     version: 0.6.9
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.412141872Z"
+    created: "2021-03-14T14:10:32.18884387Z"
     description: A Helm chart for openftth
     digest: 01b532339de0b060827c05156b41f3a95bb8f4b21b8d6a8e9f4087d77903dbb6
     name: openftth
@@ -293,7 +303,7 @@ entries:
     version: 0.6.8
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.408003046Z"
+    created: "2021-03-14T14:10:32.184910763Z"
     description: A Helm chart for openftth
     digest: 8443e7d84edb3e7de657ee5abb95e836be7dc3c891dbb3284fcee1830fb41b47
     name: openftth
@@ -303,7 +313,7 @@ entries:
     version: 0.6.7
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.403762235Z"
+    created: "2021-03-14T14:10:32.181369251Z"
     description: A Helm chart for openftth
     digest: 5f7b59091bda03f8e824440278dd0d741346bded9f761c7dc5de294cb34c8f74
     name: openftth
@@ -313,7 +323,7 @@ entries:
     version: 0.6.6
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.399122466Z"
+    created: "2021-03-14T14:10:32.177878732Z"
     description: A Helm chart for openftth
     digest: ea136c4600c190ec9c722c95b2ae954ca9227d821d04853e4e3de97d7f7ba2bb
     name: openftth
@@ -323,7 +333,7 @@ entries:
     version: 0.6.5
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.39438262Z"
+    created: "2021-03-14T14:10:32.173857339Z"
     description: A Helm chart for openftth
     digest: 9fe92a5c056630ab7bfe37488de6537e766e14719deeb558a6055161ae2b866c
     name: openftth
@@ -333,7 +343,7 @@ entries:
     version: 0.6.4
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.390306616Z"
+    created: "2021-03-14T14:10:32.171858406Z"
     description: A Helm chart for openftth
     digest: c4ec1ba60d5d5c7b16fab6bd96be30a81a8dee98c553c9236c47f307242b4671
     name: openftth
@@ -343,7 +353,7 @@ entries:
     version: 0.6.3
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.386405952Z"
+    created: "2021-03-14T14:10:32.169971587Z"
     description: A Helm chart for openftth
     digest: 4345f942c2530b1817cf1c1a177addb714f5cc503125c6a862bb3371065edad2
     name: openftth
@@ -353,7 +363,7 @@ entries:
     version: 0.6.2
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.369302669Z"
+    created: "2021-03-14T14:10:32.159783043Z"
     description: A Helm chart for openftth
     digest: 98c24d7e4b67d8ce434d87d9db84a6609943b6ab836318d7cae605549cb65002
     name: openftth
@@ -363,7 +373,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.365750437Z"
+    created: "2021-03-14T14:10:32.15636373Z"
     description: A Helm chart for openftth
     digest: 2195a044b64864e8778abe2b76a467d8369c0e35dfb215d581407439c52ac165
     name: openftth
@@ -373,7 +383,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.362138712Z"
+    created: "2021-03-14T14:10:32.152985752Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -393,7 +403,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.349665268Z"
+    created: "2021-03-14T14:10:32.142449126Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -413,7 +423,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2021-03-14T13:50:33.337902625Z"
+    created: "2021-03-14T14:10:32.134607735Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -433,7 +443,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.3.5
-    created: "2021-03-14T13:50:33.324289038Z"
+    created: "2021-03-14T14:10:32.124663906Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -453,7 +463,7 @@ entries:
     version: 0.4.8
   - apiVersion: v2
     appVersion: 0.3.5
-    created: "2021-03-14T13:50:33.312503355Z"
+    created: "2021-03-14T14:10:32.110914032Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -473,7 +483,7 @@ entries:
     version: 0.4.7
   - apiVersion: v2
     appVersion: 0.3.5
-    created: "2021-03-14T13:50:33.299462476Z"
+    created: "2021-03-14T14:10:32.098889232Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -493,7 +503,7 @@ entries:
     version: 0.4.6
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.287718069Z"
+    created: "2021-03-14T14:10:32.085667449Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -513,7 +523,7 @@ entries:
     version: 0.4.5
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.27564632Z"
+    created: "2021-03-14T14:10:32.078205476Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -533,7 +543,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.266141934Z"
+    created: "2021-03-14T14:10:32.072187678Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -553,7 +563,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.255745467Z"
+    created: "2021-03-14T14:10:32.061857663Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -573,7 +583,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.241724707Z"
+    created: "2021-03-14T14:10:32.051533917Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -593,7 +603,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.229868092Z"
+    created: "2021-03-14T14:10:32.040437533Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -613,7 +623,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.135901815Z"
+    created: "2021-03-14T14:10:31.955349955Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -633,7 +643,7 @@ entries:
     version: 0.3.23
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.124123688Z"
+    created: "2021-03-14T14:10:31.948343215Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -653,7 +663,7 @@ entries:
     version: 0.3.22
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.11220119Z"
+    created: "2021-03-14T14:10:31.942489364Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -673,7 +683,7 @@ entries:
     version: 0.3.21
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.099555252Z"
+    created: "2021-03-14T14:10:31.935564412Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -693,7 +703,7 @@ entries:
     version: 0.3.20
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.074430879Z"
+    created: "2021-03-14T14:10:31.913910792Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -713,7 +723,7 @@ entries:
     version: 0.3.19
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.064337888Z"
+    created: "2021-03-14T14:10:31.902368932Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -733,7 +743,7 @@ entries:
     version: 0.3.18
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.052094286Z"
+    created: "2021-03-14T14:10:31.889396822Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -753,7 +763,7 @@ entries:
     version: 0.3.17
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.040410783Z"
+    created: "2021-03-14T14:10:31.878712845Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -773,7 +783,7 @@ entries:
     version: 0.3.16
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.027475465Z"
+    created: "2021-03-14T14:10:31.867671271Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -793,7 +803,7 @@ entries:
     version: 0.3.15
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.016385441Z"
+    created: "2021-03-14T14:10:31.858030445Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -813,7 +823,7 @@ entries:
     version: 0.3.14
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.003495783Z"
+    created: "2021-03-14T14:10:31.848097343Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -833,7 +843,7 @@ entries:
     version: 0.3.13
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:32.991614604Z"
+    created: "2021-03-14T14:10:31.841331389Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -853,7 +863,7 @@ entries:
     version: 0.3.12
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:32.978165408Z"
+    created: "2021-03-14T14:10:31.835333303Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -873,7 +883,7 @@ entries:
     version: 0.3.11
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:32.967360091Z"
+    created: "2021-03-14T14:10:31.82488486Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -893,7 +903,7 @@ entries:
     version: 0.3.10
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.21799562Z"
+    created: "2021-03-14T14:10:32.029833702Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -913,7 +923,7 @@ entries:
     version: 0.3.9
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.20500832Z"
+    created: "2021-03-14T14:10:32.016262449Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -933,7 +943,7 @@ entries:
     version: 0.3.8
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.193506094Z"
+    created: "2021-03-14T14:10:32.005454535Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -953,7 +963,7 @@ entries:
     version: 0.3.7
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-03-14T13:50:33.180383773Z"
+    created: "2021-03-14T14:10:31.991309934Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -973,7 +983,7 @@ entries:
     version: 0.3.6
   - apiVersion: v2
     appVersion: 0.3.3
-    created: "2021-03-14T13:50:33.169494517Z"
+    created: "2021-03-14T14:10:31.982256953Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -993,7 +1003,7 @@ entries:
     version: 0.3.5
   - apiVersion: v2
     appVersion: 0.3.3
-    created: "2021-03-14T13:50:33.158527478Z"
+    created: "2021-03-14T14:10:31.974887152Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -1013,7 +1023,7 @@ entries:
     version: 0.3.4
   - apiVersion: v2
     appVersion: 0.3.3
-    created: "2021-03-14T13:50:33.148437866Z"
+    created: "2021-03-14T14:10:31.965078479Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -1033,7 +1043,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: 0.3.3
-    created: "2021-03-14T13:50:33.087829474Z"
+    created: "2021-03-14T14:10:31.926933186Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -1053,7 +1063,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.3.2
-    created: "2021-03-14T13:50:32.957271279Z"
+    created: "2021-03-14T14:10:31.813322536Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -1073,7 +1083,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.1
-    created: "2021-03-14T13:50:32.945751865Z"
+    created: "2021-03-14T14:10:31.799465344Z"
     dependencies:
     - name: elasticsearch
       repository: https://helm.elastic.co
@@ -1093,7 +1103,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.9
-    created: "2021-03-14T13:50:32.884649069Z"
+    created: "2021-03-14T14:10:31.746753614Z"
     description: A Helm chart for openftth
     digest: 3ba413b2929c1e03fec9b760cabb7ce568a666b7d507448f1731bca645787eea
     name: openftth
@@ -1103,7 +1113,7 @@ entries:
     version: 0.2.19
   - apiVersion: v2
     appVersion: 0.2.9
-    created: "2021-03-14T13:50:32.879980362Z"
+    created: "2021-03-14T14:10:31.744073028Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1117,7 +1127,7 @@ entries:
     version: 0.2.18
   - apiVersion: v2
     appVersion: 0.2.7
-    created: "2021-03-14T13:50:32.874517684Z"
+    created: "2021-03-14T14:10:31.73800219Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1131,7 +1141,7 @@ entries:
     version: 0.2.17
   - apiVersion: v2
     appVersion: 0.2.6
-    created: "2021-03-14T13:50:32.869458206Z"
+    created: "2021-03-14T14:10:31.732890947Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1145,7 +1155,7 @@ entries:
     version: 0.2.16
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2021-03-14T13:50:32.864263Z"
+    created: "2021-03-14T14:10:31.726951582Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1159,7 +1169,7 @@ entries:
     version: 0.2.15
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2021-03-14T13:50:32.858482984Z"
+    created: "2021-03-14T14:10:31.720822511Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1173,7 +1183,7 @@ entries:
     version: 0.2.14
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2021-03-14T13:50:32.854226061Z"
+    created: "2021-03-14T14:10:31.713176497Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1187,7 +1197,7 @@ entries:
     version: 0.2.13
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2021-03-14T13:50:32.848840218Z"
+    created: "2021-03-14T14:10:31.707459044Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1201,7 +1211,7 @@ entries:
     version: 0.2.12
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2021-03-14T13:50:32.842911612Z"
+    created: "2021-03-14T14:10:31.701749304Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1215,7 +1225,7 @@ entries:
     version: 0.2.11
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2021-03-14T13:50:32.835245737Z"
+    created: "2021-03-14T14:10:31.695879131Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1229,7 +1239,7 @@ entries:
     version: 0.2.10
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2021-03-14T13:50:32.934627279Z"
+    created: "2021-03-14T14:10:31.78832492Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1243,7 +1253,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2021-03-14T13:50:32.927159604Z"
+    created: "2021-03-14T14:10:31.782674099Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1257,7 +1267,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.2.3
-    created: "2021-03-14T13:50:32.921388381Z"
+    created: "2021-03-14T14:10:31.776922255Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1271,7 +1281,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2021-03-14T13:50:32.915706847Z"
+    created: "2021-03-14T14:10:31.772044842Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1285,7 +1295,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2021-03-14T13:50:32.909516618Z"
+    created: "2021-03-14T14:10:31.767152321Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1299,7 +1309,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2021-03-14T13:50:32.902125224Z"
+    created: "2021-03-14T14:10:31.762279047Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1313,7 +1323,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2021-03-14T13:50:32.896268434Z"
+    created: "2021-03-14T14:10:31.75641246Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1327,7 +1337,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2021-03-14T13:50:32.89055737Z"
+    created: "2021-03-14T14:10:31.751621985Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1341,7 +1351,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2021-03-14T13:50:32.829619508Z"
+    created: "2021-03-14T14:10:31.68669665Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1355,7 +1365,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2021-03-14T13:50:32.823630919Z"
+    created: "2021-03-14T14:10:31.681384766Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1369,7 +1379,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2021-03-14T13:50:32.817343806Z"
+    created: "2021-03-14T14:10:31.676355181Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1383,7 +1393,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2021-03-14T13:50:32.810106924Z"
+    created: "2021-03-14T14:10:31.67148576Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1397,7 +1407,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2021-03-14T13:50:32.803745828Z"
+    created: "2021-03-14T14:10:31.665506658Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1411,7 +1421,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2021-03-14T13:50:32.797790599Z"
+    created: "2021-03-14T14:10:31.660465289Z"
     dependencies:
     - name: cassandra
       repository: https://charts.bitnami.com/bitnami
@@ -1423,4 +1433,4 @@ entries:
     urls:
     - https://daxgrid.github.io/charts/openftth-0.1.2.tgz
     version: 0.1.2
-generated: "2021-03-14T13:50:32.792324768Z"
+generated: "2021-03-14T14:10:31.656035636Z"
